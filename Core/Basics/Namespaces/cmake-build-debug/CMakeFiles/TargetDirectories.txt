@@ -1,0 +1,3 @@
+/home/prathamesh/Desktop/CPP/Core/Basics/Namespaces/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/prathamesh/Desktop/CPP/Core/Basics/Namespaces/cmake-build-debug/CMakeFiles/Namespaces.dir
+/home/prathamesh/Desktop/CPP/Core/Basics/Namespaces/cmake-build-debug/CMakeFiles/edit_cache.dir

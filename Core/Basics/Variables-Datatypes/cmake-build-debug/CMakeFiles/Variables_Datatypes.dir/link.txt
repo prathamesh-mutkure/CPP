@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Variables_Datatypes.dir/main.cpp.o  -o Variables_Datatypes 

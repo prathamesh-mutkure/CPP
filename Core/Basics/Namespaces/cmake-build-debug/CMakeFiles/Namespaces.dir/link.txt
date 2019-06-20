@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Namespaces.dir/main.cpp.o CMakeFiles/Namespaces.dir/secd/second.cpp.o  -o Namespaces 
