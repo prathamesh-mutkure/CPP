@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Type_Casting.dir/main.cpp.o  -o Type_Casting 
