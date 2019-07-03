@@ -12,6 +12,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34513dd4-47e6-4de1-9a1a-fda54c6fbc16" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Advance/Pointers/Dynamic-Memory-Allocation/.idea/Dynamic-Memory-Allocation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Advance/Pointers/Dynamic-Memory-Allocation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Advance/Pointers/Dynamic-Memory-Allocation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Advance/Pointers/Dynamic-Memory-Allocation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Advance/Pointers/Pointer-Arrays/.idea/Pointer-Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Advance/Pointers/Pointer-Arrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Advance/Pointers/Pointer-Arrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Advance/Pointers/Pointer-Arrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/.idea/dictionaries/prathamesh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/String-Encrypter/.idea/String-Encrypter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/String-Encrypter/.idea/dictionaries/prathamesh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/String-Encrypter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/String-Encrypter/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/String-Encrypter/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Strings/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings/cmake-build-debug/CMakeFiles/Strings.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Strings/cmake-build-debug/CMakeFiles/Strings.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Strings/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -35,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1083">
-              <caret line="57" column="33" lean-forward="true" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
+            <state relative-caret-position="425">
+              <caret line="74" column="37" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -97,10 +114,9 @@
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25378788" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25757575" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3289256" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3289256" />
@@ -112,6 +128,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="CMake" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3289256" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -124,8 +141,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1083">
-          <caret line="57" column="33" lean-forward="true" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
+        <state relative-caret-position="425">
+          <caret line="74" column="37" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
         </state>
       </provider>
     </entry>

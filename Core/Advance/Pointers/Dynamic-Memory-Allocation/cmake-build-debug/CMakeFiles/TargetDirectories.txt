@@ -1,0 +1,3 @@
+/home/prathamesh/Desktop/CPP/Core/Advance/Pointers/Dynamic-Memory-Allocation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/prathamesh/Desktop/CPP/Core/Advance/Pointers/Dynamic-Memory-Allocation/cmake-build-debug/CMakeFiles/Dynamic_Memory_Allocation.dir
+/home/prathamesh/Desktop/CPP/Core/Advance/Pointers/Dynamic-Memory-Allocation/cmake-build-debug/CMakeFiles/edit_cache.dir

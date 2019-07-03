@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 
-    /// INITIALIZATION:
+    /** INITIALIZATION: */
 
     int a = 10;     // Assignment Operator
     int b (20);     // Constructor Initialization
@@ -56,6 +56,23 @@ int main() {
     /// Using {...} List Initialization will report error
     /// And prevent Run Time errors
     /// Hence should be preferred
+
+
+    /***** L-VALUES (LEFT HAND SIDE VALUES) *****/
+
+    int x = 10;
+
+    // Here x is a L-Value
+    // And 10 is a R-Value
+    // L-Values are stored in memory and are assigned a R-Values
+
+
+    /***** R-VALUES (RIGHT HAND SIDE VALUES) *****/
+
+//    100 = x;
+
+    // Here 100 as a Literal L-Value cannot be assigned 10 any R-Value
+    // This will cause compiler Error
 
     return 0;
 }

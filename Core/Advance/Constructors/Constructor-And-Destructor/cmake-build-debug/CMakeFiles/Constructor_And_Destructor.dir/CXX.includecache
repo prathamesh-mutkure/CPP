@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/prathamesh/Desktop/CPP/Core/Advance/OOP/Constructor-And-Destructor/src/Player.h
+iostream
+-
+string
+-
+
+/home/prathamesh/Desktop/CPP/Core/Advance/OOP/Constructor-And-Destructor/src/main.cpp
+iostream
+-
+Player.h
+/home/prathamesh/Desktop/CPP/Core/Advance/OOP/Constructor-And-Destructor/src/Player.h
+

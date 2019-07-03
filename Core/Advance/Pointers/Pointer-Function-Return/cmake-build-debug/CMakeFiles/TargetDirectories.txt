@@ -1,0 +1,3 @@
+/home/prathamesh/Desktop/CPP/Core/Advance/Pointers/Pointer-Function-Return/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/prathamesh/Desktop/CPP/Core/Advance/Pointers/Pointer-Function-Return/cmake-build-debug/CMakeFiles/Pointer_Function_Return.dir
+/home/prathamesh/Desktop/CPP/Core/Advance/Pointers/Pointer-Function-Return/cmake-build-debug/CMakeFiles/edit_cache.dir

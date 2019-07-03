@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Pointer_Array_Multiplication.dir/main.cpp.o  -o Pointer_Array_Multiplication 

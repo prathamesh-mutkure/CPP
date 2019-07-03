@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Constructor_And_Destructor.dir/src/main.cpp.o CMakeFiles/Constructor_And_Destructor.dir/src/Player.cpp.o  -o Constructor_And_Destructor 
