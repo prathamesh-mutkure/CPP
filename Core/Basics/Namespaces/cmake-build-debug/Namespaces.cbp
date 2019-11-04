@@ -87,9 +87,6 @@
 		<Unit filename="/home/prathamesh/Desktop/CPP/Core/Basics/Namespaces/main.cpp">
 			<Option target="Namespaces"/>
 		</Unit>
-		<Unit filename="/home/prathamesh/Desktop/CPP/Core/Basics/Namespaces/secd/second.cpp">
-			<Option target="Namespaces"/>
-		</Unit>
 		<Unit filename="/home/prathamesh/Desktop/CPP/Core/Basics/Namespaces/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

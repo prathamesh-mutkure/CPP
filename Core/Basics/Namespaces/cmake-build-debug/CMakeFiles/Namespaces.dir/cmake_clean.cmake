@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Namespaces.dir/main.cpp.o"
-  "CMakeFiles/Namespaces.dir/secd/second.cpp.o"
   "Namespaces.pdb"
   "Namespaces"
 )

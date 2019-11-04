@@ -5,7 +5,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/prathamesh/Desktop/CPP/Core/Basics/Namespaces/main.cpp" "/home/prathamesh/Desktop/CPP/Core/Basics/Namespaces/cmake-build-debug/CMakeFiles/Namespaces.dir/main.cpp.o"
-  "/home/prathamesh/Desktop/CPP/Core/Basics/Namespaces/secd/second.cpp" "/home/prathamesh/Desktop/CPP/Core/Basics/Namespaces/cmake-build-debug/CMakeFiles/Namespaces.dir/secd/second.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

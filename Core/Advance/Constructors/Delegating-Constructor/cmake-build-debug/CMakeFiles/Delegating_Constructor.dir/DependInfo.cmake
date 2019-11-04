@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/prathamesh/Desktop/CPP/Core/Advance/OOP/Constructors/Delegating-Constructor/main.cpp" "/home/prathamesh/Desktop/CPP/Core/Advance/OOP/Constructors/Delegating-Constructor/cmake-build-debug/CMakeFiles/Delegating_Constructor.dir/main.cpp.o"
+  "/home/prathamesh/Desktop/CPP/Core/Advance/Constructors/Delegating-Constructor/main.cpp" "/home/prathamesh/Desktop/CPP/Core/Advance/Constructors/Delegating-Constructor/cmake-build-debug/CMakeFiles/Delegating_Constructor.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

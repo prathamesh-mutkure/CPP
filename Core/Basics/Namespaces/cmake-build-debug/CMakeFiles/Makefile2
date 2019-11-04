@@ -50,10 +50,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /snap/clion/73/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /snap/clion/82/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /snap/clion/73/bin/cmake/linux/bin/cmake -E remove -f
+RM = /snap/clion/82/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /home/prathamesh/Desktop/CPP/Core/Basics/Namespaces/cmake-bui
 CMakeFiles/Namespaces.dir/all:
 	$(MAKE) -f CMakeFiles/Namespaces.dir/build.make CMakeFiles/Namespaces.dir/depend
 	$(MAKE) -f CMakeFiles/Namespaces.dir/build.make CMakeFiles/Namespaces.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/prathamesh/Desktop/CPP/Core/Basics/Namespaces/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target Namespaces"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/prathamesh/Desktop/CPP/Core/Basics/Namespaces/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Namespaces"
 .PHONY : CMakeFiles/Namespaces.dir/all
 
 # Include target in all.
@@ -81,7 +81,7 @@ all: CMakeFiles/Namespaces.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Namespaces.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/prathamesh/Desktop/CPP/Core/Basics/Namespaces/cmake-build-debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/prathamesh/Desktop/CPP/Core/Basics/Namespaces/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Namespaces.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/prathamesh/Desktop/CPP/Core/Basics/Namespaces/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Namespaces.dir/rule

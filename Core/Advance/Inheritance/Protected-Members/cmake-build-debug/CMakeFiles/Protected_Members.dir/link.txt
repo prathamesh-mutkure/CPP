@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Protected_Members.dir/main.cpp.o  -o Protected_Members 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Redifine_Base_Methods.dir/main.cpp.o  -o Redifine_Base_Methods 

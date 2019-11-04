@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Virtual_Methods.dir/main.cpp.o  -o Virtual_Methods 

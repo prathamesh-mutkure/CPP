@@ -39,10 +39,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /snap/clion/73/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /snap/clion/82/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /snap/clion/73/bin/cmake/linux/bin/cmake -E remove -f
+RM = /snap/clion/82/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -59,7 +59,7 @@ CMAKE_BINARY_DIR = /home/prathamesh/Desktop/CPP/Core/Basics/Namespaces/cmake-bui
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/snap/clion/73/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	/snap/clion/82/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -70,7 +70,7 @@ rebuild_cache/fast: rebuild_cache
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/snap/clion/73/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+	/snap/clion/82/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -150,33 +150,6 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/Namespaces.dir/build.make CMakeFiles/Namespaces.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-secd/second.o: secd/second.cpp.o
-
-.PHONY : secd/second.o
-
-# target to build an object file
-secd/second.cpp.o:
-	$(MAKE) -f CMakeFiles/Namespaces.dir/build.make CMakeFiles/Namespaces.dir/secd/second.cpp.o
-.PHONY : secd/second.cpp.o
-
-secd/second.i: secd/second.cpp.i
-
-.PHONY : secd/second.i
-
-# target to preprocess a source file
-secd/second.cpp.i:
-	$(MAKE) -f CMakeFiles/Namespaces.dir/build.make CMakeFiles/Namespaces.dir/secd/second.cpp.i
-.PHONY : secd/second.cpp.i
-
-secd/second.s: secd/second.cpp.s
-
-.PHONY : secd/second.s
-
-# target to generate assembly for a file
-secd/second.cpp.s:
-	$(MAKE) -f CMakeFiles/Namespaces.dir/build.make CMakeFiles/Namespaces.dir/secd/second.cpp.s
-.PHONY : secd/second.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -189,9 +162,6 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... secd/second.o"
-	@echo "... secd/second.i"
-	@echo "... secd/second.s"
 .PHONY : help
 
 

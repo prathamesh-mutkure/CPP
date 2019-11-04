@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Default_Constructor_Inherit.dir/main.cpp.o  -o Default_Constructor_Inherit 

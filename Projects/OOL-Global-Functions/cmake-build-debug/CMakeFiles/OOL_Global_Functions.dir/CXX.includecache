@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/prathamesh/Desktop/CPP/Projects/OOL-Global-Functions/String.h
+iostream
+-
+cstring
+-
+iosfwd
+-
+
+/home/prathamesh/Desktop/CPP/Projects/OOL-Global-Functions/main.cpp
+iostream
+-
+String.h
+/home/prathamesh/Desktop/CPP/Projects/OOL-Global-Functions/String.h
+

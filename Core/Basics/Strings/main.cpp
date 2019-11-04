@@ -47,6 +47,7 @@ int main() {
     // ILLEGAL
     // concat = "Hello " + "World!";
 
+    getchar();
 
     /** SUBSTRINGS
      *
@@ -64,6 +65,7 @@ int main() {
     cout << s3.substr(10, 6) << endl;       // String
     cout << "---------------------------------------" << endl;
 
+    getchar();
 
     /**
      * SEARCHING:
@@ -83,6 +85,7 @@ int main() {
     cout << s3.find("XX") << endl;
     cout << "---------------------------------------" << endl;
 
+    getchar();
 
     /**
      * ERASING, CLEARING OR DELETING:

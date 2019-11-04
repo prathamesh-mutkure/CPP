@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/OOL_Global_Functions.dir/main.cpp.o CMakeFiles/OOL_Global_Functions.dir/String.cpp.o  -o OOL_Global_Functions 

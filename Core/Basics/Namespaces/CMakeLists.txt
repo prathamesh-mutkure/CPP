@@ -3,4 +3,4 @@ project(Namespaces)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Namespaces main.cpp secd/second.cpp)
+add_executable(Namespaces main.cpp)

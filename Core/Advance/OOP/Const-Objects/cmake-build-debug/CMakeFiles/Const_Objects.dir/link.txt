@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Const_Objects.dir/main.cpp.o  -o Const_Objects 

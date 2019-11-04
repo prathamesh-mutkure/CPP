@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/OL_Streams.dir/main.cpp.o CMakeFiles/OL_Streams.dir/Mystring.cpp.o  -o OL_Streams 

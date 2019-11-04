@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/prathamesh/Desktop/CPP/Core/Advance/OOP/Constructor-And-Destructor/src/Player.cpp" "/home/prathamesh/Desktop/CPP/Core/Advance/OOP/Constructor-And-Destructor/cmake-build-debug/CMakeFiles/Constructor_And_Destructor.dir/src/Player.cpp.o"
-  "/home/prathamesh/Desktop/CPP/Core/Advance/OOP/Constructor-And-Destructor/src/main.cpp" "/home/prathamesh/Desktop/CPP/Core/Advance/OOP/Constructor-And-Destructor/cmake-build-debug/CMakeFiles/Constructor_And_Destructor.dir/src/main.cpp.o"
+  "/home/prathamesh/Desktop/CPP/Core/Advance/Constructors/Constructor-And-Destructor/src/Player.cpp" "/home/prathamesh/Desktop/CPP/Core/Advance/Constructors/Constructor-And-Destructor/cmake-build-debug/CMakeFiles/Constructor_And_Destructor.dir/src/Player.cpp.o"
+  "/home/prathamesh/Desktop/CPP/Core/Advance/Constructors/Constructor-And-Destructor/src/main.cpp" "/home/prathamesh/Desktop/CPP/Core/Advance/Constructors/Constructor-And-Destructor/cmake-build-debug/CMakeFiles/Constructor_And_Destructor.dir/src/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

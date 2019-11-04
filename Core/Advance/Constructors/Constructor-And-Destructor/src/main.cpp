@@ -50,8 +50,8 @@ int main() {
         levhino.setXp(800);
         levhino.displayInfo();
 
-        Player shout("Shout", 77, 700);
-        shout.displayInfo();
+        Player shroud("Shout", 77, 700);
+        shroud.displayInfo();
     }
 
     /*

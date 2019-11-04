@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Virtual_Destructor.dir/main.cpp.o  -o Virtual_Destructor 

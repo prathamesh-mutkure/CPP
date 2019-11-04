@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/OL_Member_Func.dir/main.cpp.o CMakeFiles/OL_Member_Func.dir/Mystring.cpp.o  -o OL_Member_Func 

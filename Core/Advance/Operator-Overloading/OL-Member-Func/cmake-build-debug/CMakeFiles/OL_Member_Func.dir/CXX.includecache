@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/prathamesh/Desktop/CPP/Core/Advance/Operator-Overloading/OL-Member-Func/Mystring.cpp
+cstring
+-
+iostream
+-
+Mystring.h
+/home/prathamesh/Desktop/CPP/Core/Advance/Operator-Overloading/OL-Member-Func/Mystring.h
+
+/home/prathamesh/Desktop/CPP/Core/Advance/Operator-Overloading/OL-Member-Func/Mystring.h
+
+/home/prathamesh/Desktop/CPP/Core/Advance/Operator-Overloading/OL-Member-Func/main.cpp
+iostream
+-
+Mystring.h
+/home/prathamesh/Desktop/CPP/Core/Advance/Operator-Overloading/OL-Member-Func/Mystring.h
+

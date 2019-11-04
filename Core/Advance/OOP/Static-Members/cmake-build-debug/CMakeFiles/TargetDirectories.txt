@@ -1,0 +1,3 @@
+/home/prathamesh/Desktop/CPP/Core/Advance/OOP/Static-Members/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/prathamesh/Desktop/CPP/Core/Advance/OOP/Static-Members/cmake-build-debug/CMakeFiles/Static_Members.dir
+/home/prathamesh/Desktop/CPP/Core/Advance/OOP/Static-Members/cmake-build-debug/CMakeFiles/edit_cache.dir

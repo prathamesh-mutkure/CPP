@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/prathamesh/Desktop/CPP/Core/Advance/Operator-Overloading/OL-Streams/Mystring.h
+
+/home/prathamesh/Desktop/CPP/Core/Advance/Operator-Overloading/OL-Streams/main.cpp
+iostream
+-
+Mystring.h
+/home/prathamesh/Desktop/CPP/Core/Advance/Operator-Overloading/OL-Streams/Mystring.h
+
